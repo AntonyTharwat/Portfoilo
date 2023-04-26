@@ -1,4 +1,4 @@
-#Exploring the World of Embedded Systems: A Junior Engineer's Portfolio
+# Exploring the World of Embedded Systems: A Junior Engineer's Portfolio
 Welcome to my portfolio! I am a junior embedded systems engineer with a passion for designing and developing complex systems that involve hardware and software integration.
 
 Throughout my career, I have acquired in-depth knowledge of various microcontroller architectures and programming languages such as C, C++, Python, and Assembly language. I also have experience in developing and testing firmware for embedded systems, as well as debugging hardware and software issues.
